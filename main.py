@@ -32,7 +32,7 @@ def handle_keywords(message):
 
 def send_operation_info(message, operation):
     mode = message.text.lower()
-    if mode not in ['professional', 'regular']:
+    if mode not in ['professional', 'normal']:
         bot.reply_to(message, "❌ Invalid mode.")
         return
 
