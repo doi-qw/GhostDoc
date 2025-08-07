@@ -8,7 +8,7 @@
 "name": "Appendectomy",
 "modes": {
 "professional": "Appendectomy is the removal of the vermiform appendix. The patient lies on his back. An incision in the right iliac region, layer-by-layer access, ligation and removal of the appendix, suturing.",
-"regular": "The appendix is removed through a small incision on the side of the abdomen. It is done under anesthesia, then stitched up."
+"normal": "The appendix is removed through a small incision on the side of the abdomen. It is done under anesthesia, then stitched up."
 },
 "steps": [
 {
