@@ -24,7 +24,7 @@ def handle_keywords(message):
     if text in all_keys:
         op_data = all_keys[text]
         markup = telebot.types.ReplyKeyboardMarkup(one_time_keyboard=True)
-        markup.add('Professional', 'Regular')
+        markup.add('Professional', 'Normal')
         msg = bot.send_message(message.chat.id, f"Mode for '{op_data['name']}'?", reply_markup=markup)
         bot.register_next_step_handler(msg, lambda m: send_operation_info(m, op_data))
     else:
