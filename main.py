@@ -4,7 +4,7 @@ from flask import Flask, request
 import threading
 import json
 
-TOKEN = os.environ['8068454262:AAHhJOHYXB6OyVX5KJqK7psr31Mmd7ga0G0']
+TOKEN = os.environ['BOT_TOKEN']
 bot = telebot.TeleBot(TOKEN)
 
 # Загрузка базы данных
