@@ -116,15 +116,18 @@ Technology Stack
 
 📊 Current Procedure Coverage
 
-Specialty Procedures Status
-General Surgery 25 ✅ Complete
-Orthopedic 15 ✅ Complete
-Neurosurgery 10 🔄 In Progress
-Cardiothoracic 8 🔄 In Progress
-Gynecological 12 ✅ Complete
-Urological 5 🔄 In Progress
+## 📊 Current Procedure Coverage
 
-Total: 75+ procedures with detailed step-by-step descriptions
+| Specialty | Procedures | Status |
+|-----------|------------|--------|
+| **General Surgery** | 25 | ✅ Complete |
+| **Orthopedic** | 15 | ✅ Complete |
+| **Neurosurgery** | 10 | 🔄 In Progress |
+| **Cardiothoracic** | 8 | 🔄 In Progress |
+| **Gynecological** | 12 | ✅ Complete |
+| **Urological** | 5 | 🔄 In Progress |
+
+**Total:** 75+ procedures across 6 specialties
 
 ---
 
