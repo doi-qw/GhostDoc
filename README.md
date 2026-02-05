@@ -61,8 +61,11 @@ Normal Patients, curious learners Plain-language explanations, analogies, "why t
 Phase 1: Core MVP (Current)
 
 · ✅ Database: 75+ procedures with dual-mode descriptions
+
 · ✅ Design System: Historical anatomical illustration style
+
 · 🔄 Interactive Prototype: Appendectomy immersive visualization
+
 · 🔄 Basic Web Interface: Procedure browser with dual-mode toggle
 
 Phase 2: Platform Expansion
