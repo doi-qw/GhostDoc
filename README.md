@@ -17,8 +17,11 @@ Revolutionizing surgical education through interactive, historical-style anatomi
 This project draws inspiration from:
 
 · 19th century anatomical atlases (Gray's Anatomy, Bourgery)
+
 · Renaissance-era surgical theaters
+
 · Modern interactive learning platforms
+
 · AI-assisted medical training systems
 
 We believe that the aesthetics of knowledge matter. The rich, detailed style of historical medical illustrations isn't just beautiful — it creates a psychological environment conducive to deep, focused learning.
@@ -36,22 +39,31 @@ Normal Patients, curious learners Plain-language explanations, analogies, "why t
 2. Immersive Procedural Visualization
 
 · Step-by-step anatomical animations in historical engraving style
+
 · Interactive 2D/3D models with layer-by-layer dissection
+
 · Real-time procedural guidance with visual cues
+
 · Historical context for each procedure
 
 3. AI Surgical Mentor
 
 · Context-aware explanations adapting to user's knowledge level
+
 · Procedural Q&A with historical and modern perspectives
+
 · Case-based learning with complication management
+
 · Progress tracking and personalized learning paths
 
 4. Comprehensive Procedure Library
 
 · 75+ detailed surgical procedures (and growing)
+
 · Standardized format for consistent learning experience
+
 · Cross-referenced with modern medical literature
+
 · Multi-language support (starting with English)
 
 ---
